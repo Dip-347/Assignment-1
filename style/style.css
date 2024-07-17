@@ -10,7 +10,9 @@
     margin: 20px 50px;
 }
 .btn-primary{
-    padding: 3px 5px;
+    padding: 5px 10px;
+    background-color: black;
+    color: white;
 }
 .two-1{
     text-align: center;
@@ -162,11 +164,15 @@ margin: 0px 24px;
 .ten{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(205, 195, 201);
-    padding: 10px 20px;
+    background-color: rgb(201, 196, 199);
+    align-items: center;
 }
 .ten-1{
     display: flex;
     list-style: none;
     gap: 20px;
+}
+.ten-0{
+    text-decoration: none;
+    color: black;
 }
