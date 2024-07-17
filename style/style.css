@@ -1,0 +1,16 @@
+.one{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 20px 50px;
+}
+.btn-primary{
+    padding: 3px 5px;
+}
+.two-1{
+    text-align: center;
+}
+.two{
+    background-image: url(../assets/Hero-bg.png);
+    margin: 0px 0px 50px 0px;
+}
