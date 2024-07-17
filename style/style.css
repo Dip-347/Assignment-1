@@ -14,3 +14,108 @@
     background-image: url(../assets/Hero-bg.png);
     margin: 0px 0px 50px 0px;
 }
+.three{
+    text-align: center;
+
+}
+.three-p{
+    color: rgb(86, 87, 91);
+}
+.four, .five, .six{
+    display: flex;
+    justify-content: space-between;
+}
+.first-main{
+    padding: 80px 97px 80px 97px;
+    align-items: center;
+    margin: 10px auto;
+}
+.seven{
+    text-align: center;
+    padding: 16px;
+    margin: 32px;
+}
+.seven-video{
+    border: 2px solid black;
+    border-radius: 14px;
+
+}
+.eight-2{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    
+}
+.eight-h, .eight-p{
+    text-align: center;
+
+}
+.eight-p{
+    color: rgb(86, 87, 91);
+}
+.eight-x{
+    border-radius: 16px;
+
+background: rgba(255, 76, 30, 0.05);
+    /* Frame 10 */
+position: static;
+width: 364px;
+height: 300px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 5px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px; 
+}
+.eight-y{
+    border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+    /* Frame 16 */
+position: static;
+width: 364px;
+height: 300px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 5px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 24px;
+}
+.eight-z{
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+    /* Frame 17 */
+position: static;
+width: 364px;
+height: 300px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 5px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 24px;
+}
