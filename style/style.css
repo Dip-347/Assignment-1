@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 .one{
     display: flex;
     justify-content:space-between;
@@ -14,6 +19,7 @@
     background-image: url(../assets/Hero-bg.png);
     margin: 0px 0px 50px 0px;
 }
+
 .three{
     text-align: center;
 
@@ -118,4 +124,38 @@ flex: none;
 order: 2;
 flex-grow: 0;
 margin: 0px 24px;
+}
+.eight{
+    margin-bottom: 50px;
+}
+.ab{
+    border: 3px solid black;
+    border-radius: 10px;
+    display: flex;
+    margin: 20px 0px;
+}
+.btn-pl{
+    text-decoration: underline;
+    list-style: none;
+
+}
+.nine{
+    text-align: center;
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    height: auto;
+    /* unable to make the photo full screen */
+
+}
+.nine-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.btn-nine{
+    padding: 8px 10px 7px 10px;
+    
 }
