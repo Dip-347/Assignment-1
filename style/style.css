@@ -159,3 +159,14 @@ margin: 0px 24px;
     padding: 8px 10px 7px 10px;
     
 }
+.ten{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(205, 195, 201);
+    padding: 10px 20px;
+}
+.ten-1{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
